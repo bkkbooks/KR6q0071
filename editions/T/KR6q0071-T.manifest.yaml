@@ -19,11 +19,11 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0071_000-T.yaml, hash: 'sha256:5537a544e408029bc7e2c5d6ab6bf71b31cc36fc1fc09607b82d691d29b1971c'}
+  - {seq: 0, filename: KR6q0071_000-T.yaml, hash: 'sha256:4eb739f13a9e806f45420e7d6f588780cff167dfc7bb6104fcb37f566ab6721a'}
   - {seq: 1, filename: KR6q0071_001-T.yaml, hash: 'sha256:cbc89f57752ccf0a250a63484a9396fb35a82fe1b35005dc9e8c2df7ce0ea908'}
   - {seq: 2, filename: KR6q0071_002-T.yaml, hash: 'sha256:f2705e1ab466faacc1ad832de6ec76cc68aea3ef8a9497444457e909f547213f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0071_000-T.markers.yaml, hash: 'sha256:e70a9bc1feadab6b0be2643e6322b9ecbe323e9834b0fb8280cb0cef9b09d797'}
+  - {seq: 0, role: markers, filename: assets/KR6q0071_000-T.markers.yaml, hash: 'sha256:13b42bd8d8def16f81e00e63271cb339e5da4e8b7ce1a0829cf6a3b18c7b6fd4'}
   - {seq: 1, role: markers, filename: assets/KR6q0071_001-T.markers.yaml, hash: 'sha256:34c4060968045277a943b0f0d2d5a936c5c3c88c91f18afe70e28311cda2b2b9'}
   - {seq: 2, role: markers, filename: assets/KR6q0071_002-T.markers.yaml, hash: 'sha256:4032028f489779f0e4bb231053ba52e0640b99d975c074714d84bce3381d3036'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0071_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 如淨禪師語錄序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0071_T_000-mulu-2
     span:
-    - front
+    - body
     - 385
     - 385
   label: 如淨禪師語錄目次
@@ -807,4 +807,4 @@ table_of_contents:
   label: 後序
   type: mulu
   level: 1
-hash: sha256:e403557d61a2dd73f2ff1242c2ace34662cb29b8aaa0387cba29ce99ace0c425
+hash: sha256:98c9d01dab4718969f358cbb687687e3f7fb4462c8a91e8715ee7828ab43154e
